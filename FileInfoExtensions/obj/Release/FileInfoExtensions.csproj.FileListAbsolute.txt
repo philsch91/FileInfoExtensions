@@ -1,0 +1,8 @@
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileExtensions\FileExtensions\bin\Release\FileInfoExtensions.dll
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileExtensions\FileExtensions\bin\Release\FileInfoExtensions.pdb
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileExtensions\FileExtensions\obj\Release\FileInfoExtensions.dll
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileExtensions\FileExtensions\obj\Release\FileInfoExtensions.pdb
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileInfoExtensions\FileInfoExtensions\bin\Release\FileInfoExtensions.dll
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileInfoExtensions\FileInfoExtensions\bin\Release\FileInfoExtensions.pdb
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileInfoExtensions\FileInfoExtensions\obj\Release\FileInfoExtensions.dll
+C:\Users\A4938.PAD01\Documents\Visual Studio 2010\Projects\FileInfoExtensions\FileInfoExtensions\obj\Release\FileInfoExtensions.pdb
